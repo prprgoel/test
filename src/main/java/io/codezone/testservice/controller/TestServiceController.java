@@ -13,4 +13,9 @@ public class TestServiceController {
         return "Hi";
     }
 
+
+    public static void main(String[] args) {
+        System.out.println("Hi Students");
+    }
+
 }
